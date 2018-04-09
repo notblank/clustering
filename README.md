@@ -17,7 +17,7 @@ Luego Anaconda:
 
 https://anaconda.org/
 
-#### En R (V. 3.2)
+#### En R (V. 3.3)
 [https://github.com/IRkernel/IRkernel]
 
 Por último abran R y copien:
@@ -28,10 +28,10 @@ devtools::install_github('IRkernel/IRkernel')
 
 IRkernel::installspec()  
 
-IRkernel::installspec(name = 'ir32', displayname = 'R 3.2')
+IRkernel::installspec(name = 'ir33', displayname = 'R 3.3')
 Como correr un Jupyter NoteBook
 Abran Anaconda;
 
 ### Click en Jupyter:
 
-Nuevo -> R 3.2
+Nuevo -> R 3.3
