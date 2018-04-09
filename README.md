@@ -17,7 +17,7 @@ Luego Anaconda:
 
 https://anaconda.org/
 
-#### En R (V. 3.2)
+#### En R (V. 3.3)
 
 Por último abran R y copien:
 
@@ -33,4 +33,4 @@ Abran Anaconda;
 
 ### Click en Jupyter:
 
-Nuevo -> R 3.2
+Nuevo -> R 3.3
