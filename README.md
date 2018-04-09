@@ -5,9 +5,8 @@ Ejemplos workshop: Métodos Matemáticos para la Física de Partículas.
 Hay dos notebooks jupyter con ejemplos. El de procesos de Dirichlet está vacío por el momento. 
 
 
-## Instalar el kernel de R en jupyer: 
+## Instalar el kernel de R en jupyer: (necesitan conexión a internet)
 
-Prerequisitos (necesitan conexión a internet)
 Antes de programar necesitan instalar un par de cosas en sus computadoras.
 
 Primero la última versión de R estable:
