@@ -18,7 +18,7 @@ Luego Anaconda:
 https://anaconda.org/
 
 #### En R (V. 3.2)
-
+[https://github.com/IRkernel/IRkernel]
 Por último abran R y copien:
 
 install.packages(c('repr', 'IRdisplay', 'crayon', 'pbdZMQ', 'devtools'))
